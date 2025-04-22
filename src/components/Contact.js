@@ -9,10 +9,10 @@ const Contact = () => {
       <div className="contact-details">
         <a href="rknalan2004@gmail.com" className="contact-link">Email Me</a>
         <div className="social-icons">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Nalan1025" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-github"></i> GitHub
           </a>
-          <a href="www.linkedin.com/in/nalan-r-k-10112b303" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/nalan-r-k-10112b303/" target="_blank" >
             <i className="fab fa-linkedin"></i> LinkedIn
           </a>
         </div>
